@@ -23,8 +23,15 @@ It uses **Python, SQL, Machine Learning, and Power BI** to provide actionable in
 
 ---
 
+## ---
+
+## 📊 Dashboard Preview
+
+![HR Analytics Dashboard – Attrition Overview](images/dashboard.png)
+
 ## 🚀 Steps to Run
 1. Clone the repository  
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
